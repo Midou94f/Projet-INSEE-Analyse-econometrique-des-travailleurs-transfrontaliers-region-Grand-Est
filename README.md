@@ -1,5 +1,18 @@
 # Projet INSEE — Mobilité transfrontalière des travailleurs du Grand Est
 
+## **IMPORTANT Accès aux données INSEE (coupe 2022)**
+
+1. Aller sur le site de l’INSEE.  
+2. Dans la barre de recherche, taper :  
+   **« Logements, individus, activité, mobilités scolaires et professionnelles, migrations résidentielles en 2022 »**  
+3. Télécharger les bases suivantes :
+   - **« Individus localisés au canton-ou-ville »** (recensement) - Année 2022
+   - **« Mobilités professionnelles des individus »** (MOB-PRO) - région grand-est uniquement
+
+Pour travailler sur une autre année, il suffit de modifier l’année dans la recherche.
+
+****
+
 ## Objectif du projet
 Ce projet vise à analyser les déterminants socio-économiques et géographiques de la **probabilité d’être travailleur transfrontalier** pour les résidents de la région Grand Est, à partir des micro-données du Recensement de la population 2022 (INSEE).
 
